@@ -1,0 +1,22 @@
+﻿  Fade.cpp
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(48,16): warning C4002: 类函数宏的调用“D3DCOLOR_XRGB”参数过多
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(51,16): warning C4002: 类函数宏的调用“D3DCOLOR_XRGB”参数过多
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(54,16): warning C4002: 类函数宏的调用“D3DCOLOR_XRGB”参数过多
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(87,33): warning C4305: “-=”: 从“double”到“FLOAT”截断
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(93,45): warning C4244: “+=”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(94,45): warning C4244: “+=”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(186,22): warning C4101: “y”: 未引用的局部变量
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(186,19): warning C4101: “x”: 未引用的局部变量
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(211,28): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(223,46): warning C4244: “-=”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(226,46): warning C4244: “-=”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(229,48): warning C4244: “+=”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(232,48): warning C4244: “+=”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(427,21): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\Shinelon\Desktop\Fade\Fade.cpp(537,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  1 of 467 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Fade.vcxproj -> C:\Users\Shinelon\Desktop\Fade\Fade.exe
